@@ -1,0 +1,41 @@
+.navbar-default{
+	background: #fff !important;
+	padding:0px 23px;
+	border-bottom : solid 1px #e0e0e0;
+	ul li a{
+	font-size:20px;
+	border-top : solid 2px #fff;
+	padding:30px 12px;
+	color:#626262;
+	}
+}
+
+
+.navbar-brand {
+		img {
+		height:65px;
+		}
+	}
+
+
+.collapse{
+	color: #626262;
+	}
+.nav {
+	li{
+		a:hover{
+				border-top : solid 2px #626262;
+				color : #626262 !important;
+		}
+	}
+	li {
+	a:active{
+				 border-top: solid 2px #6495ED !important;
+				 color : #6495ED !important;
+				 background:#42424  !important;
+
+	}
+	}
+
+}
+

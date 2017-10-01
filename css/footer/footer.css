@@ -1,0 +1,22 @@
+/* line 1, ../../scss/footer/footer.scss */
+.footer {
+  background: #304ffe;
+  color: #fff;
+  font-size: 15px;
+  height: 50px;
+  text-align: center;
+  padding: 15px 0px 0px 0px;
+  margin-bottom: -20px;
+}
+/* line 9, ../../scss/footer/footer.scss */
+.footer b {
+  font-family: rockwell;
+  color: #fff;
+  font-size: 20px;
+}
+/* line 14, ../../scss/footer/footer.scss */
+.footer i {
+  font-family: mistral;
+  color: #fff;
+  font-size: 20px;
+}

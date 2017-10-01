@@ -1,0 +1,162 @@
+/* line 1, ../../scss/content/content.scss */
+.thumbnail {
+  background: transparent;
+  border: none;
+}
+/* line 4, ../../scss/content/content.scss */
+.thumbnail .atas {
+  margin-top: 20px;
+}
+/* line 6, ../../scss/content/content.scss */
+.thumbnail .atas img {
+  height: 310px;
+  width: 330px;
+}
+
+/* line 13, ../../scss/content/content.scss */
+.intro-text {
+  margin-top: -30px !important;
+  text-align: center;
+}
+/* line 15, ../../scss/content/content.scss */
+.intro-text .name {
+  font-size: 35px;
+}
+/* line 17, ../../scss/content/content.scss */
+.intro-text .name i {
+  color: #fff;
+}
+/* line 22, ../../scss/content/content.scss */
+.intro-text b {
+  font-family: Rockwell;
+  color: #2962ff;
+  font-size: 58px;
+  text-shadow: 2px 1px 1px #424242;
+}
+/* line 28, ../../scss/content/content.scss */
+.intro-text i {
+  font-family: Mistral;
+  font-size: 58px;
+  text-shadow: 2px 1px 1px #424242;
+}
+/* line 33, ../../scss/content/content.scss */
+.intro-text .star-primary:after {
+  color: #fff;
+  background: transparent;
+}
+/* line 38, ../../scss/content/content.scss */
+.intro-text .skils {
+  font-size: 30px !important;
+  color: #fff;
+  text-shadow: 2px 1px 1px #424242;
+}
+
+/* line 44, ../../scss/content/content.scss */
+.header {
+  background-image: url("../img/atas3.png");
+  background-repeat: no-repeat;
+  opacity: 0.9;
+  height: 893px !important;
+  width: 100%;
+}
+/* line 51, ../../scss/content/content.scss */
+.header .kep {
+  color: #fff;
+  margin-top: 305px;
+  text-align: center;
+}
+/* line 55, ../../scss/content/content.scss */
+.header .kep p {
+  font-size: 107px;
+  font-family: Calibri;
+  text-shadow: 2px 1px 1px #424242;
+}
+/* line 60, ../../scss/content/content.scss */
+.header img {
+  margin-top: 80px;
+}
+
+/* line 64, ../../scss/content/content.scss */
+.jumbotron {
+  padding: 120px 0px;
+  background: transparent;
+}
+/* line 67, ../../scss/content/content.scss */
+.jumbotron img {
+  height: 420px;
+  width: 420px;
+  position: center;
+}
+/* line 72, ../../scss/content/content.scss */
+.jumbotron p {
+  text-align: justify;
+}
+/* line 73, ../../scss/content/content.scss */
+.jumbotron p span {
+  font-family: Mistral;
+}
+/* line 77, ../../scss/content/content.scss */
+.jumbotron h2 {
+  color: #6495ED;
+}
+
+/* line 81, ../../scss/content/content.scss */
+.gal {
+  background: #F0F1F2;
+  padding: 82px 0px;
+}
+/* line 84, ../../scss/content/content.scss */
+.gal img {
+  height: 100%;
+  width: 100% !important;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  padding: 3px;
+}
+/* line 91, ../../scss/content/content.scss */
+.gal img:hover {
+  height: 90%;
+  width: 90%;
+  border: 1px solid #424242;
+  padding: 5px;
+  opacity: 0.95px;
+}
+
+/* line 99, ../../scss/content/content.scss */
+.sosial {
+  background: #e0e0e0;
+}
+/* line 101, ../../scss/content/content.scss */
+.sosial ul li i:hover {
+  color: #000;
+}
+/* line 104, ../../scss/content/content.scss */
+.sosial ul li a:hover {
+  color: #000;
+}
+/* line 107, ../../scss/content/content.scss */
+.sosial ul li i {
+  color: #6495ED;
+}
+
+/* line 111, ../../scss/content/content.scss */
+.event {
+  padding: 95px 0px;
+}
+/* line 114, ../../scss/content/content.scss */
+.event .container img {
+  heigth: 600px;
+  width: 450px;
+}
+/* line 118, ../../scss/content/content.scss */
+.event .container p {
+  text-align: justify;
+}
+
+/* line 124, ../../scss/content/content.scss */
+hr {
+  border-color: #6495ED;
+  width: 170px;
+  height: 6px;
+  margin-top: 0px;
+}
